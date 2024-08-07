@@ -1,0 +1,59 @@
+{
+  "USER": {
+    "AUTH": {
+      "SIGNIN": "مقدمة",
+      "SIGNUP": "تسجيل",
+      "FORGOT_YOUR_PASSWORD": "نسيت كلمة السر؟"
+    }
+  },
+  "NAVIGATION": {
+    "MENU": {
+      "HOME": "الصفحة الرئيسية",
+      "PROJECTS": "المشاريع",
+      "ABOUT": "معلومات عنا",
+      "BLOG": "مدونة",
+      "SHOP": "محل",
+      "JOBS": "حياة مهنية",
+      "PRESS": "مركز المعلومات"
+    }
+  },
+  "NOTFOUND": {
+    "HEADING": "الصفحة غير موجودة",
+    "TEXT": "نحن على يقين من أن هذه الصفحة كانت نشطة، لكنها الآن معطلة. آسف."
+  },
+  "BUTTONS": {
+    "BACK": "عد"
+  },
+  "MENU": {
+    "DASHBOARD": "لوحة التحكم",
+    "DASHBOARD_CHIEF_SELLER": "لوحة التحكم: البائع الأعلى",
+    "DASHBOARD_SELLER": "لوحة التحكم: البائع",
+    "DASHBOARD_PRESS_SPEAKER": "هيئة الإدارة: السكرتير الصحفي",
+    "PROFILE_SETTINGS": "حدود",
+    "SIGN_OUT": "مخرج"
+  },
+  "FOOTER": {
+    "HEADINGS": {
+      "USEFUL_LINKS": "روابط مفيدة",
+      "DOWNLOAD_MONEY4YOU_APP": "تحميل money4you.APP",
+      "SUBSCRIBE_NEWSLETTER": "اشترك في النشرة الإخبارية"
+    },
+    "TEXTS": {
+      "ANNOTATION": "Money4you هي عبارة عن منصة مبتكرة للتمويل الجماعي مع نظام مالي بديل. تم إنشاؤه لإنشاء مجتمع يسمح لرواد الأعمال بمقابلة المستثمرين الذين يمكنهم تنفيذ مشاريعهم."
+    },
+    "LINKS": {
+      "DATA_PROTECTION": "حماية البيانات",
+      "IMPRINT": "بصمة",
+      "GENERAL_TERMS_AND_CONDITIONS": "الاحكام والشروط العامة",
+      "RISK_AND_IMPORTANT_INFORMATION": "المخاطر والمعلومات الهامة",
+      "LIST_OF_PRICES_AND_SERVICES": "قائمة الأسعار والخدمات"
+    },
+    "COPYRIGHT": "© {{year}} money4you.financial. كل الحقوق محفوظة."
+  },
+  "WIDGETS": {
+    "RADIO": {
+      "WHAT_A_SONG": "اي موسيقى"
+    },
+    "TV": {}
+  }
+}

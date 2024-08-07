@@ -1,0 +1,16 @@
+{
+  "YOUR_CUSTOMERS": "შენი მომხმარებლები",
+  "CREATE_REFERRAL_LINK": "შექმენი რეფ. ბმული",
+  "TOTAL_AMOUNT": "მთლიანი რაოდენობა:",
+  "SHOW_DETAILS": "დეტალების ნახვა",
+  "HIDE_DETAILS": "დეტალების დამალვა",
+  "CREATE_LINK": "ბმულის შექმნა",
+  "COPY": "დაკოპირება",
+  "TABLES": {
+    "CAMPAIGN": "პროექტი",
+    "START_DATE": "დაწყება",
+    "END_DATE": "დასრულება",
+    "INTEREST": "ინტერესი",
+    "AMOUNT": "რაოდენობა"
+  }
+}

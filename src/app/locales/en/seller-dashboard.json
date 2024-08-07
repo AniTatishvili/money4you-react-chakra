@@ -1,0 +1,16 @@
+{
+  "YOUR_CUSTOMERS": "Your customers",
+  "CREATE_REFERRAL_LINK": "Create referral link",
+  "TOTAL_AMOUNT": "Total amount:",
+  "SHOW_DETAILS": "Show details",
+  "HIDE_DETAILS": "Hide details",
+  "CREATE_LINK": "Create a link",
+  "COPY": "Copy",
+  "TABLES": {
+    "CAMPAIGN": "Campaign",
+    "START_DATE": "Start data",
+    "END_DATE": "End date",
+    "INTEREST": "Interest",
+    "AMOUNT": "Amount"
+  }
+}

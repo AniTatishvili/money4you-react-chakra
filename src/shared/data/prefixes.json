@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "value": "phd",
+    "name": "Ph.D"
+  },
+  {
+    "id": 2,
+    "value": "engineer",
+    "name": "engineer"
+  },
+  {
+    "id": 3,
+    "value": "difh",
+    "name": "DIFH"
+  },
+  {
+    "id": 4,
+    "value": "prof",
+    "name": "prof"
+  },
+  {
+    "id": 5,
+    "value": "ba",
+    "name": "B.A"
+  },
+  {
+    "id": 6,
+    "value": "GDR",
+    "name": "GDR"
+  },
+  {
+    "id": 7,
+    "value": "urgent",
+    "name": "urgent"
+  },
+  {
+    "id": 8,
+    "value": "bsc",
+    "name": "BSc"
+  },
+  {
+    "id": 9,
+    "value": "drdk",
+    "name": "DrDkfm"
+  },
+  {
+    "id": 10,
+    "value": "dr",
+    "name": "dr"
+  },
+  {
+    "id": 11,
+    "value": "msc",
+    "name": "MSc"
+  },
+  {
+    "id": 12,
+    "value": "dkfmag",
+    "name": "DkfmMag"
+  },
+  {
+    "id": 13,
+    "value": "dkfm",
+    "name": "Dkfm"
+  },
+  {
+    "id": 14,
+    "value": "like",
+    "name": "Like"
+  },
+  {
+    "id": 15,
+    "value": "bscma",
+    "name": "BScMA"
+  },
+  {
+    "id": 16,
+    "value": "profmag",
+    "name": "ProfMag"
+  },
+  {
+    "id": 17,
+    "value": "drdi",
+    "name": "DrDI"
+  },
+  {
+    "id": 18,
+    "value": "univprofdr",
+    "name": "UnivProfDr"
+  },
+  {
+    "id": 19,
+    "value": "profdi",
+    "name": "ProfDI"
+  },
+  {
+    "id": 20,
+    "value": "tue",
+    "name": "TUE"
+  },
+  {
+    "id": 21,
+    "value": "drmag",
+    "name": "DrMag"
+  },
+  {
+    "id": 22,
+    "value": "magfh",
+    "name": "MagFH"
+  },
+  {
+    "id": 23,
+    "value": "univprof",
+    "name": "UnivProf"
+  },
+  {
+    "id": 24,
+    "value": "mmag",
+    "name": "MMag"
+  },
+  {
+    "id": 25,
+    "value": "miscellaneous",
+    "name": "Miscellaneous"
+  },
+  {
+    "id": 26,
+    "value": "ma",
+    "name": "MA"
+  },
+  {
+    "id": 27,
+    "value": "magdi",
+    "name": "MagDI"
+  },
+  {
+    "id": 28,
+    "value": "profdkfm",
+    "name": "ProfDkfm"
+  },
+  {
+    "id": 29,
+    "value": "profdr",
+    "name": "Prof. Dr"
+  },
+  {
+    "id": 30,
+    "value": "mba",
+    "name": "MBA"
+  },
+  {
+    "id": 31,
+    "value": "bamsc",
+    "name": "BAMSc"
+  },
+  {
+    "id": 32,
+    "value": "bama",
+    "name": "BAMA"
+  },
+  {
+    "id": 33,
+    "value": "maging",
+    "name": "MagIng"
+  },
+  {
+    "id": 34,
+    "value": "dkff",
+    "name": "Dkff"
+  }
+]

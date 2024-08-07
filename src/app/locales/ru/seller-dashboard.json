@@ -1,0 +1,16 @@
+{
+  "YOUR_CUSTOMERS": "Клиенты",
+  "CREATE_REFERRAL_LINK": "Создать реф. ссылку",
+  "TOTAL_AMOUNT": "Общая сумма:",
+  "SHOW_DETAILS": "Показать детали",
+  "HIDE_DETAILS": "Скрыть детали",
+  "CREATE_LINK": "Создать ссылку",
+  "COPY": "Копировать",
+  "TABLES": {
+    "CAMPAIGN": "Проекты",
+    "START_DATE": "Начало",
+    "END_DATE": "Окончание",
+    "INTEREST": "Интерес",
+    "AMOUNT": "Количество"
+  }
+}

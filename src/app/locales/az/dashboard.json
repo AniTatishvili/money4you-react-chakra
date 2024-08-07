@@ -1,0 +1,38 @@
+{
+  "CAMPAIGN_NAME": "{{campaign_name}}",
+  "SETTINGS": "Parametrlər",
+  "TABLES": {
+    "PROJECT_NAME": "Ad",
+    "AMOUNT": "Məbləğ",
+    "INTEREST": "Maraqlı",
+    "RISK": "Risk",
+    "PROGRESS": "İrəliləyiş",
+    "STATUS": "Vəziyyət",
+    "DONATION_DATE": "İanə tarixi",
+    "START_DATE": "Başlama tarixi",
+    "END_DATE": "Bitmə tarixi",
+    "CONTRACT": "Müqavilə"
+  },
+  "STATUS": {
+    "ACTIVE": "Aktiv",
+    "CLOSED": "Bağlı",
+    "UNPAID": "Ödənilməmiş"
+  },
+  "LAST_DONATION": {
+    "NAME": "{{last_donation_name}}",
+    "RISK": "Risk",
+    "DONATION_PROGRESS": "İrəliləyiş",
+    "DONATION_AMOUNT": "İanə miqdarı"
+  },
+  "TITLES": {
+    "INTEREST_AND_RISKS": "Maraqlar və Risklər",
+    "POPULAR_CAMPAIGNS": "Məşhur kampaniyalarımız",
+    "YOUR_LAST_DONATIONS": "Son ianələriniz",
+    "YOUR_DONATIONS": "İanələriniz"
+  },
+  "BUTTONS": {
+    "SEE_CONTRACT": "Görünüş",
+    "SEE_MORE": "Daha çox",
+    "AWAITS_CONFIRMATION": "Gözləyir"
+  }
+}

@@ -1,0 +1,27 @@
+.notfound {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin: 0 auto;
+  max-width: 820px;
+  text-align: center;
+
+  & .emoji {
+    font-size: 48px;
+  }
+
+  & .error {
+    font-size: 48px;
+    font-weight: 800;
+    text-shadow: 5px 5px 1px rgba(23, 32, 43, 23%);
+    color: #dd9933;
+  }
+
+  & .title {
+    font-size: 32px;
+  }
+
+  & .desc {
+    font-size: 22px;
+  }
+}

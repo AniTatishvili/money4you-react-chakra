@@ -1,0 +1,42 @@
+{
+  "CAMPAIGN_NAME": "{{campaign_name}}",
+  "SETTINGS": "Настройки",
+  "TABLES": {
+    "PROJECT_NAME": "Название",
+    "AMOUNT": "Сумма",
+    "INTEREST": "Интерес",
+    "RISK": "Риск",
+    "PROGRESS": "Прогрeсс",
+    "STATUS": "Статус",
+    "DONATION_DATE": "Дата инвестиции",
+    "START_DATE": "Начало",
+    "END_DATE": "Завершение",
+    "CONTRACT": "Контракт"
+  },
+  "STATUS": {
+    "ACTIVE": "Активно",
+    "CLOSED": "Завершено",
+    "UNPAID": "Неоплачено",
+    "PENDING": "Pending",
+    "CONFIRMED": "Confirmed",
+    "REFUND": "Refund",
+    "DENIED": "Denied"
+  },
+  "LAST_DONATION": {
+    "NAME": "{{last_donation_name}}",
+    "RISK": "Риск",
+    "DONATION_PROGRESS": "Прогресс",
+    "DONATION_AMOUNT": "Сумма инвестиции"
+  },
+  "TITLES": {
+    "INTEREST_AND_RISKS": "Заинтересованность и риски",
+    "POPULAR_CAMPAIGNS": "Популярные кампании",
+    "YOUR_LAST_DONATIONS": "Ваша последняя активность",
+    "YOUR_DONATIONS": "Ваши инвестиции"
+  },
+  "BUTTONS": {
+    "SEE_CONTRACT": "Просмотреть",
+    "SEE_MORE": "Подробнее",
+    "AWAITS_CONFIRMATION": "Ожидает"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "SOCIAL_ICONS": "Social icons",
+  "SIGNUP_SINGNIN": "Sign in and Sign up",
+  "USER_PROFILE": "User profile",
+  "LANGUAGE_MENU": "Language menu",
+  "COLOR_MODE": "Color mode",
+  "THIS_IS_US": "This is us",
+  "HEADER_MENU": "Header menu",
+  "LIVE_CHAT_GROUP": "Live chat group",
+  "TV_RADIO": "TV and Radio",
+  "LIVE_CHAT": "Live chat",
+  "PASSPORT_FIELDS": "Passport fields",
+  "WEBCAM": "Webcam",
+  "MAIN_SLIDER": "Main slider",
+  "OUR_PROJECTS": "Our projects",
+  "ACCEPT_TERMS": "Accept terms",
+  "BUTTONS": {
+    "NEXT": "Next",
+    "PREVIOUS": "Previous"
+  }
+}

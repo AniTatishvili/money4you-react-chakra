@@ -1,0 +1,12 @@
+.tab_panels {
+  height: 780px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding: 0 3rem;
+  @media screen and (max-width: 1200px) {
+    padding: 0 1rem;
+  }
+  @media screen and (max-width: 775px) {
+    padding: 0 10px;
+  }
+}

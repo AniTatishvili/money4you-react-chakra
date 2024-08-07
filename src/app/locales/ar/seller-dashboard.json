@@ -1,0 +1,16 @@
+{
+  "YOUR_CUSTOMERS": "زبائنك",
+  "CREATE_REFERRAL_LINK": "إنشاء رابط الإحالة",
+  "TOTAL_AMOUNT": "المبلغ الإجمالي:",
+  "SHOW_DETAILS": "اظهر التفاصيل",
+  "HIDE_DETAILS": "أخف التفاصيل",
+  "CREATE_LINK": "إنشاء رابط",
+  "COPY": "انسخه",
+  "TABLES": {
+    "CAMPAIGN": "حملة",
+    "START_DATE": "وقت البدء",
+    "END_DATE": "وقت النهاية",
+    "INTEREST": "اهتمام",
+    "AMOUNT": "كمية"
+  }
+}

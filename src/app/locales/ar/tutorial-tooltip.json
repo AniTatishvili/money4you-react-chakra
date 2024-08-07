@@ -1,0 +1,21 @@
+{
+  "SOCIAL_ICONS": "الرموز الاجتماعية",
+  "SIGNUP_SINGNIN": "تسجيل الدخول والتسجيل",
+  "USER_PROFILE": "ملف تعريفي للمستخدم",
+  "LANGUAGE_MENU": "قائمة اللغة",
+  "COLOR_MODE": "وضع اللون",
+  "THIS_IS_US": "هذا نحن",
+  "HEADER_MENU": "قائمة العنوان",
+  "LIVE_CHAT_GROUP": "مجموعة الدردشة الحية",
+  "TV_RADIO": "التلفزيون والراديو",
+  "LIVE_CHAT": "دردشة مباشرة",
+  "PASSPORT_FIELDS": "حقول جواز السفر",
+  "WEBCAM": "كاميرا ويب",
+  "MAIN_SLIDER": "شريط التمرير الرئيسي",
+  "OUR_PROJECTS": "مشاريعنا",
+  "ACCEPT_TERMS": "اقبل الشروط",
+  "BUTTONS": {
+    "NEXT": "التالي",
+    "PREVIOUS": "سابق"
+  }
+}

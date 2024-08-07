@@ -1,0 +1,1 @@
+export { DProgress } from "shared/ui/pregress-bar/donation-progress";  

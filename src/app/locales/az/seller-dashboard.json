@@ -1,0 +1,16 @@
+{
+  "YOUR_CUSTOMERS": "Müştəriləriniz",
+  "CREATE_REFERRAL_LINK": "İstinad linki yaradın",
+  "TOTAL_AMOUNT": "Ümumi miqdar:",
+  "SHOW_DETAILS": "Detalları göstərin",
+  "HIDE_DETAILS": "Detalları gizlədin",
+  "CREATE_LINK": "Link yaradın",
+  "COPY": "Kopyalayın",
+  "TABLES": {
+    "CAMPAIGN": "Campaign",
+    "START_DATE": "Başlama vaxtı",
+    "END_DATE": "Bitmə vaxtı",
+    "INTEREST": "Maraq",
+    "AMOUNT": "Miqdar"
+  }
+}

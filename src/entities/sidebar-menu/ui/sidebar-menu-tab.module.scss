@@ -1,0 +1,37 @@
+button.tab_wrapper {
+  padding: 0;
+	border: none;
+  z-index: 2;
+}
+div.tab {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 25px;
+  width: auto;
+  max-width: 280px;
+  height: 52px;
+  padding: 0 15px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 22px;
+}
+.icon {
+  font-size: 25px;
+  width: 100%;
+  max-width: 25px;
+}
+.tab_title {
+  position: absolute;
+  left: 70px;
+  width: auto;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+button.isSelected {
+  border: none;
+  border-radius: 4px 0px 0px 4px;
+}

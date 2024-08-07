@@ -1,0 +1,21 @@
+.btn {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+  padding: 0;
+  width: 30px;
+  height: 30px;
+  background-color: #242424;
+  color: #ffffff;
+  font-size: 1rem;
+  transition: all 350ms, border 100ms;
+  &:hover {
+    border-color: #dd9933;
+    background: #dd9933;
+    color: #242424;
+    box-shadow: none;
+  }
+}

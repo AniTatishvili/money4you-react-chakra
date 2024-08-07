@@ -1,0 +1,78 @@
+{
+  "USERNAME": "Login",
+  "PASSWORD": "Şifrə",
+  "ENTER_MOBILE_NUMBER": "Mobil nömrənizi daxil edin",
+  "SOCIAL_TITLE": "Sosial başlıq",
+  "FIRST_NAME": "Ad",
+  "LAST_NAME": "Soyad",
+  "SELECT_YOUR_GENDER": "Cinsi seçin",
+  "PASSPORT_ID": "Pasport ID",
+  "EMAIL": "E-mail",
+  "SELECT_YOUR_COUNTRY": "Yaşadığınız ölkəni seçin",
+  "CITY": "Şəhər",
+  "POST_CODE": "Post kod",
+  "STATE": "Bölgə",
+  "STREET": "Küçə",
+  "BUILDING_NUMBER": "Bina nömrəsi",
+  "APT_NUMBER": "Qapı nömrəsi",
+  "SIGNUP_CONFIRMATION_CHECKBOX": "Mən istifadəçi müqaviləsinin şərtlərini qəbul edirəm və şəxsi məlumatların işlənməsinə razıyam.",
+  "FRONT_SIDE_OF_THE_PASSPORT": "Pasportun ön tərəfi",
+  "REVERSE_SIDE_OF_THE_PASSPORT": "Pasportun arxa tərəfi",
+  "ENABLE_WEBCAM": "Veb kameranı aktivləşdirin",
+  "DISABLE_WEBCAM": "Veb kameranı söndürün",
+  "SHOW_PREVIEW": "Önizləməni göstərin",
+  "CLOSE_PREVIEW": "Önizləməni bağlayın",
+  "LOGIN_AUTHENTICATION_CODE_TYPE": "Giriş identifikasiyası kodu növü:",
+  "SMS": "SMS",
+  "ONE_TIME_PASSWORD": "Birdəfəlik parol",
+  "FORGOT_PASSWORD": "Şifrəni unutmusunuz",
+  "UPLOAD_PRESS_CARD": "Mətbuat kartınızı yükləyin",
+  "UPLOAD_RESUME": "Xülasə",
+  "COMPANY": "Şirkət",
+  "PERSON": "Şəxs",
+  "REPRESENT": "təmsil edirəm",
+  "BUTTONS": {
+    "SEND": "Göndər",
+    "SAVE": "Yadda saxlayın",
+    "UPDATE": "Yenilə",
+    "ACCEPT": "Qəbul etmək",
+    "COLLAPSE_MENU": "Menyunu yığcamlaşdırın"
+  },
+  "PROFILE_SETTINGS": {
+    "TABS": {
+      "UPDATE_PROFILE": "Profili yeniləyin",
+      "UPDATE_PHONE_NUMBER": "Mobil nömrə",
+      "UPDATE_KYC": "KYC-ni yeniləyin",
+      "CHANGE_PASSWORD": "Parolu dəyişdirin",
+      "RESUME": "CV"
+    },
+    "PHONE": {
+      "CONFIRM_OLD_NUMBER": "Mobil nömrənizi təsdiqləyin:",
+      "ENTER_LAST_SYMBOLS": "Son simvolları daxil edin",
+      "ENTER_NEW_MOBILE_NUMBER": "Yeni mobil nömrə daxil edin:",
+      "NEW_MOBILE_NUMBER": "Yeni mobil nömrə",
+      "ENTER_SMS_CODE": "SMS kodunu daxil edin:",
+      "SMS_CODE": "SMS kod"
+    },
+    "KYC": {},
+    "PASSWORD": {
+      "NEW_PASSWORD": "Yeni şifrə",
+      "CONFIRM_NEW_PASSWORD": "Yeni Şifrəni təsdiq et"
+    },
+    "RESUME": {
+      "NOT_FOUND": "CV tapılmadı.",
+      "NOTE": "Zəhmət olmasa CV-nizi pdf formatında yükləyin.",
+      "DOWNLOAD_NOTE": "Burada CV-ni yoxlaya, yükləyə və ya yeniləyə bilərsiniz:",
+      "PAGES": "Səhifə {{number}} of {{numbers}}"
+    },
+    "BUTTONS": {
+      "UPDATE_AVATAR": "Avatarı yeniləyin",
+      "UPDATE_PRESS_CARD": "Mətbuat kartı yeniləyin",
+      "PREVIOUS": "Prev.",
+      "NEXT": "Next",
+      "SHOW_RESUME": "CV göstər",
+      "UPLOAD_RESUME": "CV yükləyin",
+      "UPDATE_RESUME": "CV-ni yeniləyin"
+    }
+  }
+}

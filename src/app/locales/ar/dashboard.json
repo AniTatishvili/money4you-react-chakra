@@ -1,0 +1,38 @@
+{
+  "CAMPAIGN_NAME": "{{campaign_name}}",
+  "SETTINGS": "حدود",
+  "TABLES": {
+    "PROJECT_NAME": "اسم",
+    "AMOUNT": "كمية",
+    "INTEREST": "مثير للاهتمام",
+    "RISK": "مخاطرة",
+    "PROGRESS": "تحسين",
+    "STATUS": "الوضع",
+    "DONATION_DATE": "تاريخ التبرع",
+    "START_DATE": "تاريخ البدء",
+    "END_DATE": "تاريخ البدء",
+    "CONTRACT": "عقد"
+  },
+  "STATUS": {
+    "ACTIVE": "نشيط",
+    "CLOSED": "مغلق",
+    "UNPAID": "غير مدفوعة الأجر"
+  },
+  "LAST_DONATION": {
+    "NAME": "{{last_donation_name}}",
+    "RISK": "مخاطرة",
+    "DONATION_PROGRESS": "تحسين",
+    "DONATION_AMOUNT": "مبلغ التبرع"
+  },
+  "TITLES": {
+    "INTEREST_AND_RISKS": "المصالح والمخاطر",
+    "POPULAR_CAMPAIGNS": "حملاتنا الشعبية",
+    "YOUR_LAST_DONATIONS": "تبرعاتك الأخيرة",
+    "YOUR_DONATIONS": "تبرعاتكم"
+  },
+  "BUTTONS": {
+    "SEE_CONTRACT": "مظهر",
+    "SEE_MORE": "أكثر",
+    "AWAITS_CONFIRMATION": "هو ينتظر"
+  }
+}

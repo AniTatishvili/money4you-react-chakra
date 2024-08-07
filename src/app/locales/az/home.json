@@ -1,0 +1,81 @@
+{
+  "TITLES": {
+    "OUR_ACTUAL_PROJECTS": "Real layihələrimiz",
+    "ROLE_OF_MONEY4YOU": "Money4you.financial Rolu",
+    "DID_YOU_KNOW": "Bilirdinizmi?",
+    "CUSTOMER_TESTIMONIALS": "Müştəri rəyləri",
+    "WHY_PEOPLE_CHOOSE_US": "İnsanlar niyə bizi seçirlər?"
+  },
+  "HOME_SLIDER": {
+    "GREETINGS": {
+      "TITLE": "Xoş gəlmisiniz",
+      "DESC": "Uğurunuz üçün lazım olan hər şey"
+    },
+    "BUTTONS": {
+      "GET_STARTED": "Başla"
+    }
+  },
+  "PROJECTS": {
+    "INFO": {
+      "TITLE_PART": "Kəşf et — ",
+      "DESC": "Sosial məqsədli layihələrdə iştirak edin. Əsas məqsədlərimizdən biri sosial məsuliyyət fonunda layihələr həyata keçirməkdir."
+    },
+    "ITEM": {
+      "STATUS": {
+        "DAYS_REMAINING": "{{days}} gün qalıb",
+        "COMING_SOON": "Tezliklə",
+        "CLOSE": "Bağlı"
+      },
+      "RISKS": "Risklər",
+      "INTEREST": "Maraq",
+      "YEARS": "{{years}} Il",
+      "DAYS": "{{days}} Gün"
+    }
+  },
+  "ROLE": {
+    "DESC": "alternativ maliyyə sistemi ilə innovativ kollektiv maliyyələşdirmə platformasıdır. Sahibkarlara layihələrini həyata keçirə biləcək investorlarla görüşməyə imkan verən bir icma yaratmaq üçün yaradılmışdır.",
+    "LABELS": {
+      "TITLES": {
+        "CREATING_HOMES": "Evlərin yaradılması",
+        "GENERATE_PROFIT": "Mənfəət əldə etmək",
+        "BOOSTING_THE_ECONOMY": "İqtisadiyyatın gücləndirilməsi"
+      },
+      "DESC": {
+        "1": "Sosial məqsədli layihələrdə iştirak edin. Əsas məqsədlərimizdən biri sosial məsuliyyət fonunda layihələr həyata keçirməkdir.",
+        "2": "Layihələrimiz sizə yüksək faiz dərəcəsi qazanmaq imkanı verir. Qalanı sizdən asılıdır!",
+        "3": "Təklif etdiyimiz layihələr təkcə sosial mühitə deyil, bütün iqtisadiyyata müsbət təsir göstərir."
+      }
+    },
+    "BUTTONS": {
+      "READ_MORE": "Haqqımızda daha çox oxuyun"
+    }
+  },
+  "DID_YOU_KNOW": {
+    "DESC": "Hazırda kraudfandinq dünyasında ən qaynar sahələrdən biri daşınmaz əmlakdır. İsveçrədə aparılan bir araşdırma göstərdi ki, orada kütlə sərmayəsinin artımı əsasən daşınmaz əmlaka crowdinvesting hesabına baş verib. İsveçrədə yalnız 2015-ci ildə yaranan bu seqment 2016-cı ilə qədər artıq 32,4 milyon İsveçrə frankı toplanmış vəsaitə çatmışdı.",
+    "BUTTONS": {
+      "KNOW_MORE_HERE": "Burada daha çox məlumat əldə edin"
+    }
+  },
+  "CHOOSE": {
+    "DESC_TITLE": "Gücləndirən Xəyallar. Ruhlandırıcı Dəyişiklik.",
+    "DESC": "İdeyalar və innovasiyalar tərəfindən idarə olunan bir dünyada yaşadığımız üçün yeni müəssisələrin böyüməsini sürətləndirən platformalara ehtiyac getdikcə daha vacib hala gəldi. İnnovasiya crowdfunding şirkətləri, uzaqgörən fərdlərə öz ideyalarını həyata keçirmək üçün əməkdaşlıq sahəsi təklif edərək, oyun dəyişdirici kimi ortaya çıxır.",
+    "LABELS": {
+      "TITLES": {
+        "TRACKABLE_PROJECTS": "İzlənə bilən layihələr",
+        "CUSTOMER_FOCUSED_CALL_CENTER": "Müştəri yönümlü zəng mərkəzi",
+        "FAST_DOCUMENTATION": "Sürətli Sənədləşdirmə"
+      },
+      "DESC": {
+        "1": "Sizi layihələrin izlənilə bilən və nəzərə çarpan olduğu yeni maliyyə investisiyaları dünyasına dəvət edirik.",
+        "2": "O, hər hansı bir investisiya sorğunuz üçün sizə peşəkar dəstək vermək üçün yaradılmışdır.",
+        "3": "Saytımızda investisiya prosesi asan, sürətli və şəffafdır."
+      }
+    },
+    "STATS": {
+      "SATISFIED_CUSTOMERS": "Məmnun Müştərilər",
+      "EXPERIENCED_ADVISORS": "Təcrübəli Məsləhətçilər",
+      "WORLDWIDE_LOCATIONS": "Ümumdünya Məkanlar",
+      "YEARS_OF_EXPERIENCE": "İllərin təcrübəsi"
+    }
+  }
+}

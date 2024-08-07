@@ -1,0 +1,42 @@
+.fullbar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 0;
+  z-index: 999;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 1.5px 0 5px;
+  border-bottom: 1px solid #99999922;
+  position: sticky;
+  top: 0;
+  z-index: 998;
+}
+
+.mobile {
+  display: none;
+  @media (max-width: 840px) {
+    display: block;
+  }
+}
+
+.desktop {
+  display: block;
+  @media (max-width: 840px) {
+    display: none;
+  }
+}
+
+.tutoral_tooltip {
+  position: relative;
+  @media (max-width: 768px) {
+    display: none !important;
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "USERNAME": "Username",
+  "PASSWORD": "Password",
+  "ENTER_MOBILE_NUMBER": "Enter mobile number",
+  "SOCIAL_TITLE": "Social title",
+  "FIRST_NAME": "First name",
+  "LAST_NAME": "Last name",
+  "SELECT_YOUR_GENDER": "Select your gender",
+  "PASSPORT_ID": "Passport ID",
+  "EMAIL": "E-mail",
+  "SELECT_YOUR_COUNTRY": "Select your country",
+  "CITY": "City",
+  "POST_CODE": "Post code",
+  "STATE": "State",
+  "STREET": "Street",
+  "BUILDING_NUMBER": "Building number",
+  "APT_NUMBER": "Apt. number",
+  "SIGNUP_CONFIRMATION_CHECKBOX": "I accept the terms of the user agreement and agree to the processing of personal data.",
+  "SIGNUP_COMPANY_CONFIRMATION_CHECKBOX": "I hereby confirm that I, {{full_name}}, have all necessary authority to sign this document. I take full and unlimited responsibility for all obligations arising from this document and guarantee the accuracy of all provided information. The site does not assume any responsibility for incorrect information provided by the applicant.",
+  "FRONT_SIDE_OF_THE_PASSPORT": "Passport front side",
+  "REVERSE_SIDE_OF_THE_PASSPORT": "Passport back side",
+  "ENABLE_WEBCAM": "Enable Webcam",
+  "DISABLE_WEBCAM": "Disable Webcam",
+  "SHOW_PREVIEW": "Show preview",
+  "CLOSE_PREVIEW": "Close preview",
+  "LOGIN_AUTHENTICATION_CODE_TYPE": "Login authentication code type:",
+  "SMS": "SMS",
+  "ONE_TIME_PASSWORD": "One Time Password",
+  "FORGOT_PASSWORD": "Forgot password",
+  "UPLOAD_PRESS_CARD": "Upload your press card",
+  "UPLOAD_RESUME": "Upload resume",
+  "COMPANY": "Company",
+  "PERSON": "Person",
+  "REPRESENT": "I represent",
+  "DO_YOU_HAVE_TAX_NUMBER": "Do You have TAX number?",
+  "TAX_NUMBER_DESC": "A 'tax number' is a unique identifier assigned to individuals or entities by a tax authority for the purpose of tracking tax obligations and payments.",
+  "BUTTONS": {
+    "SEND": "Send",
+    "SAVE": "Save",
+    "UPDATE": "Update",
+    "ACCEPT": "Accept",
+    "COLLAPSE_MENU": "Collapse Menu"
+  },
+  "PROFILE_SETTINGS": {
+    "TABS": {
+      "UPDATE_PROFILE": "Update profile",
+      "UPDATE_PHONE_NUMBER": "Update phone number",
+      "UPDATE_KYC": "Update KYC",
+      "CHANGE_PASSWORD": "Change password",
+      "RESUME": "Resume"
+    },
+    "PHONE": {
+      "CONFIRM_OLD_NUMBER": "Confirm your mobile number:",
+      "ENTER_LAST_SYMBOLS": "Enter last symbols",
+      "ENTER_NEW_MOBILE_NUMBER": "Enter new mobile number:",
+      "NEW_MOBILE_NUMBER": "New mobile number",
+      "ENTER_SMS_CODE": "Enter SMS code:",
+      "SMS_CODE": "SMS code"
+    },
+    "KYC": {},
+    "PASSWORD": {
+      "NEW_PASSWORD": "New password",
+      "CONFIRM_NEW_PASSWORD": "Confirm new password"
+    },
+    "RESUME": {
+      "NOT_FOUND": "Resume not found.",
+      "NOTE": "Please upload your resume in pdf format.",
+      "DOWNLOAD_NOTE": "Here You can check, download or update resume:",
+      "PAGES": "Page {{number}} of {{numbers}}"
+    },
+    "BUTTONS": {
+      "UPDATE_AVATAR": "Update avatar",
+      "UPDATE_PRESS_CARD": "Update press card",
+      "PREVIOUS": "Prev.",
+      "NEXT": "Next",
+      "SHOW_RESUME": "Show resume",
+      "UPLOAD_RESUME": "Upload resume",
+      "UPDATE_RESUME": "Update resume"
+    }
+  }
+}

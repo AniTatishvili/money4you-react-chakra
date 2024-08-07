@@ -1,0 +1,42 @@
+{
+  "CAMPAIGN_NAME": "{{campaign_name}}",
+  "SETTINGS": "Settings",
+  "TABLES": {
+    "PROJECT_NAME": "Name",
+    "AMOUNT": "Amount",
+    "INTEREST": "Interest",
+    "RISK": "Risk",
+    "PROGRESS": "Progress",
+    "STATUS": "Status",
+    "DONATION_DATE": "Donation date",
+    "START_DATE": "Start date",
+    "END_DATE": "End date",
+    "CONTRACT": "Contract"
+  },
+  "STATUS": {
+    "ACTIVE": "Active",
+    "CLOSED": "Closed",
+    "UNPAID": "Unpaid",
+    "PENDING": "Pending",
+    "CONFIRMED": "Confirmed",
+    "REFUND": "Refund",
+    "DENIED": "Denied"
+  },
+  "LAST_DONATION": {
+    "NAME": "{{last_donation_name}}",
+    "RISK": "Risk",
+    "DONATION_PROGRESS": "Progress",
+    "DONATION_AMOUNT": "Donation amount"
+  },
+  "TITLES": {
+    "INTEREST_AND_RISKS": "Interests and Risks",
+    "POPULAR_CAMPAIGNS": "Our popular campaigns",
+    "YOUR_LAST_DONATIONS": "Your last donations",
+    "YOUR_DONATIONS": "Your donations"
+  },
+  "BUTTONS": {
+    "SEE_CONTRACT": "View",
+    "SEE_MORE": "More",
+    "AWAITS_CONFIRMATION": "Awaits"
+  }
+}

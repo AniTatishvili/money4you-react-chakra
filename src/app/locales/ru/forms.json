@@ -1,0 +1,78 @@
+{
+  "USERNAME": "Логин",
+  "PASSWORD": "Пароль",
+  "ENTER_MOBILE_NUMBER": "Номер мобильного телефона",
+  "SOCIAL_TITLE": "Cоциальный титул",
+  "FIRST_NAME": "Имя",
+  "LAST_NAME": "Фамилия",
+  "SELECT_YOUR_GENDER": "Пол",
+  "PASSPORT_ID": "Номер паспорта",
+  "EMAIL": "Электронная почта",
+  "SELECT_YOUR_COUNTRY": "Выберите страну",
+  "CITY": "Город",
+  "POST_CODE": "Почтовый индекс",
+  "STATE": "Штат",
+  "STREET": "Улица",
+  "BUILDING_NUMBER": "Номер здания",
+  "APT_NUMBER": "Номер квартиры",
+  "SIGNUP_CONFIRMATION_CHECKBOX": "Я принимаю условия пользовательского соглашения и даю согласие на обработку персональных данных.",
+  "FRONT_SIDE_OF_THE_PASSPORT": "Лицевая сторона паспорта",
+  "REVERSE_SIDE_OF_THE_PASSPORT": "Обратная сторона паспорта",
+  "ENABLE_WEBCAM": "Включить веб-камеру",
+  "DISABLE_WEBCAM": "Отключить веб-камеру",
+  "SHOW_PREVIEW": "Показать результат",
+  "CLOSE_PREVIEW": "Скрыть результат",
+  "LOGIN_AUTHENTICATION_CODE_TYPE": "Метод аутентификации при входе:",
+  "SMS": "SMS",
+  "ONE_TIME_PASSWORD": "Код подтверждения",
+  "FORGOT_PASSWORD": "Восстановление пароля",
+  "UPLOAD_PRESS_CARD": "Загрузите свою пресс-карту",
+  "UPLOAD_RESUME": "Загрузить резюме",
+  "COMPANY": "Компания",
+  "PERSON": "Человек",
+  "REPRESENT": "Я представляю",
+  "BUTTONS": {
+    "SEND": "Отправить",
+    "SAVE": "Сохранить",
+    "UPDATE": "Обновить",
+    "ACCEPT": "Подтвердить",
+    "COLLAPSE_MENU": "Скрыть меню"
+  },
+  "PROFILE_SETTINGS": {
+    "TABS": {
+      "UPDATE_PROFILE": "Обновить профиль",
+      "UPDATE_PHONE_NUMBER": "Мобильный номер",
+      "UPDATE_KYC": "Обновить KYC",
+      "CHANGE_PASSWORD": "Обновить пароль",
+      "RESUME": "Резюме"
+    },
+    "PHONE": {
+      "CONFIRM_OLD_NUMBER": "Подтвердите номер мобильного телефона:",
+      "ENTER_LAST_SYMBOLS": "Введите последние символы",
+      "ENTER_NEW_MOBILE_NUMBER": "Введите новый номер:",
+      "NEW_MOBILE_NUMBER": "Введите новый номер",
+      "ENTER_SMS_CODE": "Введите код подтверждения:",
+      "SMS_CODE": "Код подтверждения"
+    },
+    "KYC": {},
+    "PASSWORD": {
+      "NEW_PASSWORD": "Новый пароль",
+      "CONFIRM_NEW_PASSWORD": "Подтвердите пароль"
+    },
+    "RESUME": {
+      "NOT_FOUND": "Резюме не найдено.",
+      "NOTE": "Пожалуйста, загрузите Ваше резюме в формате PDF.",
+      "DOWNLOAD_NOTE": "Здесь Вы можете проверить, скачать и обновить свое резюме:",
+      "PAGES": "Страница {{number}} из {{numbers}}"
+    },
+    "BUTTONS": {
+      "UPDATE_AVATAR": "Обновить аватар",
+      "UPDATE_PRESS_CARD": "Обновить пресс-карту",
+      "PREVIOUS": "Пред.",
+      "NEXT": "След.",
+      "SHOW_RESUME": "Показать резюме",
+      "UPLOAD_RESUME": "Загрузить резюме",
+      "UPDATE_RESUME": "Обновить резюме"
+    }
+  }
+}

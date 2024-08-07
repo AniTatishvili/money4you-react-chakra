@@ -1,0 +1,78 @@
+{
+  "USERNAME": "تسجيل الدخول",
+  "PASSWORD": "كلمة المرور",
+  "ENTER_MOBILE_NUMBER": "أدخل رقم هاتفك المحمول",
+  "SOCIAL_TITLE": "اللقب الاجتماعي",
+  "FIRST_NAME": "اسم",
+  "LAST_NAME": "اسم العائلة",
+  "SELECT_YOUR_GENDER": "حدد نوع الجنس",
+  "PASSPORT_ID": "رقم جواز السفر",
+  "EMAIL": "بريد إلكتروني",
+  "SELECT_YOUR_COUNTRY": "اختر بلد إقامتك",
+  "CITY": "مدينة",
+  "POST_CODE": "رمز بريدي",
+  "STATE": "منطقة",
+  "STREET": "شارع",
+  "BUILDING_NUMBER": "رقم المبنى",
+  "APT_NUMBER": "رقم الباب",
+  "SIGNUP_CONFIRMATION_CHECKBOX": "أوافق على شروط اتفاقية المستخدم وأوافق على معالجة البيانات الشخصية.",
+  "FRONT_SIDE_OF_THE_PASSPORT": "الجانب الأمامي من جواز السفر",
+  "REVERSE_SIDE_OF_THE_PASSPORT": "الجزء الخلفي من جواز السفر",
+  "ENABLE_WEBCAM": "قم بتنشيط كاميرا الويب",
+  "DISABLE_WEBCAM": "قم بإيقاف تشغيل كاميرا الويب",
+  "SHOW_PREVIEW": "عرض المعاينة",
+  "CLOSE_PREVIEW": "أغلق المعاينة",
+  "LOGIN_AUTHENTICATION_CODE_TYPE": "نوع رمز تعريف الوصول:",
+  "SMS": "رسالة قصيرة",
+  "ONE_TIME_PASSWORD": "كلمة السر لمرة واحدة",
+  "FORGOT_PASSWORD": "نسيت كلمة السر",
+  "UPLOAD_PRESS_CARD": "قم بتنزيل بطاقتك الصحفية",
+  "UPLOAD_RESUME": "ملخص",
+  "COMPANY": "شركة",
+  "PERSON": "بشر",
+  "REPRESENT": "انا امثل",
+  "BUTTONS": {
+    "SEND": "يرسل",
+    "SAVE": "تذكر ذلك",
+    "UPDATE": "ينعش",
+    "ACCEPT": "يأخذ",
+    "COLLAPSE_MENU": "طي القائمة"
+  },
+  "PROFILE_SETTINGS": {
+    "TABS": {
+      "UPDATE_PROFILE": "تحديث الملف",
+      "UPDATE_PHONE_NUMBER": "رقم الهاتف المحمول",
+      "UPDATE_KYC": "قم بتحديث KYC الخاص بك",
+      "CHANGE_PASSWORD": "قم بتغيير كلمة المرور",
+      "RESUME": "السيرة الذاتية"
+    },
+    "PHONE": {
+      "CONFIRM_OLD_NUMBER": "قم بتأكيد رقم هاتفك المحمول:",
+      "ENTER_LAST_SYMBOLS": "أدخل الأحرف الأخيرة",
+      "ENTER_NEW_MOBILE_NUMBER": "أدخل رقم جوال جديد:",
+      "NEW_MOBILE_NUMBER": "رقم الجوال الجديد",
+      "ENTER_SMS_CODE": "أدخل رمز الرسائل القصيرة:",
+      "SMS_CODE": "رمز الرسائل القصيرة"
+    },
+    "KYC": {},
+    "PASSWORD": {
+      "NEW_PASSWORD": "كلمة المرور الجديدة",
+      "CONFIRM_NEW_PASSWORD": "تأكيد كلمة المرور الجديدة"
+    },
+    "RESUME": {
+      "NOT_FOUND": "لم يتم العثور على السيرة الذاتية.",
+      "NOTE": "يرجى تحميل سيرتك الذاتية بصيغة pdf.",
+      "DOWNLOAD_NOTE": "هنا يمكنك التحقق من سيرتك الذاتية أو تنزيلها أو تحديثها:",
+      "PAGES": "صفحة {{number}} ل {{numbers}}"
+    },
+    "BUTTONS": {
+      "UPDATE_AVATAR": "تحديث الصورة الرمزية",
+      "UPDATE_PRESS_CARD": "تحديث البطاقة الصحفية",
+      "PREVIOUS": "Prev.",
+      "NEXT": "Next",
+      "SHOW_RESUME": "إظهار السيرة الذاتية",
+      "UPLOAD_RESUME": "حمل سيرتك الذاتية",
+      "UPDATE_RESUME": "قم بتحديث سيرتك الذاتية"
+    }
+  }
+}

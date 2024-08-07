@@ -1,0 +1,59 @@
+{
+  "USER": {
+    "AUTH": {
+      "SIGNIN": "Giriş",
+      "SIGNUP": "Qeydiyyat",
+      "FORGOT_YOUR_PASSWORD": "Şifrəni unutmusan?"
+    }
+  },
+  "NAVIGATION": {
+    "MENU": {
+      "HOME": "Ana səhifə",
+      "PROJECTS": "Proyektlər",
+      "ABOUT": "Haqqımızda",
+      "BLOG": "Bloq",
+      "SHOP": "Mağaza",
+      "JOBS": "Karyera",
+      "PRESS": "Məlumat mərkəzi"
+    }
+  },
+  "NOTFOUND": {
+    "HEADING": "Səhifə tapılmadı",
+    "TEXT": "Əminik ki, o səhifə əvvəllər aktiv olub, lakin indi işləmir.  Üzr istəyirik."
+  },
+  "BUTTONS": {
+    "BACK": "Geri dön"
+  },
+  "MENU": {
+    "DASHBOARD": "İdarəetmə paneli",
+    "DASHBOARD_CHIEF_SELLER": "İdarəetmə paneli: Baş satışçı",
+    "DASHBOARD_SELLER": "İdarəetmə paneli: Satışçı",
+    "DASHBOARD_PRESS_SPEAKER": "İdarəetmə paneli: Mətbuat katibi",
+    "PROFILE_SETTINGS": "Parametrlər",
+    "SIGN_OUT": "Çıxış"
+  },
+  "FOOTER": {
+    "HEADINGS": {
+      "USEFUL_LINKS": "Faydalı linklər",
+      "DOWNLOAD_MONEY4YOU_APP": "money4you.APP endir",
+      "SUBSCRIBE_NEWSLETTER": "Blutene abune olun"
+    },
+    "TEXTS": {
+      "ANNOTATION": "Money4you alternativ maliyyə sistemi ilə innovativ kollektiv maliyyələşdirmə platformasıdır. Sahibkarlara layihələrini həyata keçirə biləcək investorlarla görüşməyə imkan verən bir icma yaratmaq üçün yaradılmışdır."
+    },
+    "LINKS": {
+      "DATA_PROTECTION": "Data Protection",
+      "IMPRINT": "Imprint",
+      "GENERAL_TERMS_AND_CONDITIONS": "General terms and conditions",
+      "RISK_AND_IMPORTANT_INFORMATION": "Risk and important information",
+      "LIST_OF_PRICES_AND_SERVICES": "List of prices and services"
+    },
+    "COPYRIGHT": "© {{year}} money4you.financial. Bütün hüquqlar qorunur."
+  },
+  "WIDGETS": {
+    "RADIO": {
+      "WHAT_A_SONG": "Hansı Musiqi"
+    },
+    "TV": {}
+  }
+}

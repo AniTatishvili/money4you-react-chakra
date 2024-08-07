@@ -1,0 +1,59 @@
+{
+  "USER": {
+    "AUTH": {
+      "SIGNIN": "ავტორიზაცია",
+      "SIGNUP": "რეგისტრაცია",
+      "FORGOT_YOUR_PASSWORD": "დაგავიწყდა შენი პაროლი?"
+    }
+  },
+  "NAVIGATION": {
+    "MENU": {
+      "HOME": "მთავარი",
+      "PROJECTS": "პროექტები",
+      "ABOUT": "ჩვენ შესახებ",
+      "BLOG": "ბლოგი",
+      "SHOP": "პროდუქცია",
+      "JOBS": "ვაკანსიები",
+      "PRESS": "პრესა"
+    }
+  },
+  "NOTFOUND": {
+    "HEADING": "გვერდი არ იძებნება",
+    "TEXT": "ჩვენ დარწმუნებულები ვართ, რომ ეს გვერდი ოდესღაც არსებობდა, მაგრამ როგორც ჩანს, გაქრა. ბოდიშს გიხდით მისი სახელით."
+  },
+  "BUTTONS": {
+    "BACK": "უკან"
+  },
+  "MENU": {
+    "DASHBOARD": "მართვის პანელი",
+    "DASHBOARD_CHIEF_SELLER": "მართვის პანელი: მთავარი გამყიდველი",
+    "DASHBOARD_SELLER": "მართვის პანელი: გამყიდველი",
+    "DASHBOARD_PRESS_SPEAKER": "მართვის პანელი: პრეს-სპიკერი",
+    "PROFILE_SETTINGS": "პარამეტრები",
+    "SIGN_OUT": "გამოსვლა"
+  },
+  "FOOTER": {
+    "HEADINGS": {
+      "USEFUL_LINKS": "სასარგებლო ბმულები",
+      "DOWNLOAD_MONEY4YOU_APP": "ჩამოტვირთვა money4you.APP",
+      "SUBSCRIBE_NEWSLETTER": "გამოიწერე ბიულეტინი"
+    },
+    "TEXTS": {
+      "ANNOTATION": "Money4you არის ინოვაციური პლატფორმა ალტერნატიული ფინანსური სისტემით. ის შეიქმნა იმისთვის, რათა დააკავშიროს მეწარმეები და ინვესტორები, რომლებიც თავიანთი პროექტების განხორციელებას შეძლებენ."
+    },
+    "LINKS": {
+      "DATA_PROTECTION": "მონაცემთა დაცვა",
+      "IMPRINT": "ანაბეჭდი",
+      "GENERAL_TERMS_AND_CONDITIONS": "ზოგადი წესები და პირობები",
+      "RISK_AND_IMPORTANT_INFORMATION": "რისკები და მნიშვნელოვანი ინფორმაცია",
+      "LIST_OF_PRICES_AND_SERVICES": "ფასებისა და სერვისების ჩამონათვალი"
+    },
+    "COPYRIGHT": "© {{year}} money4you.financial. ყველა უფლება დაცულია."
+  },
+  "WIDGETS": {
+    "RADIO": {
+      "WHAT_A_SONG": "ინფორმაციის ჩვენება"
+    },
+    "TV": {}
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "TITLES": {
+    "OUR_ACTUAL_PROJECTS": "Our actual projects",
+    "ROLE_OF_MONEY4YOU": "Role of money4you.financial",
+    "DID_YOU_KNOW": "Did you know?",
+    "CUSTOMER_TESTIMONIALS": "Customer Testimonials",
+    "WHY_PEOPLE_CHOOSE_US": "Why people choose us?"
+  },
+  "HOME_SLIDER": {
+    "GREETINGS": {
+      "TITLE": "Welcome to",
+      "DESC": "Everything You need for Your success"
+    },
+    "BUTTONS": {
+      "GET_STARTED": "Get started"
+    }
+  },
+  "PROJECTS": {
+    "INFO": {
+      "TITLE_PART": "Discover",
+      "DESC": "Get involved in projects with a social purpose. One of our main goal is to realise projects with a social responsibility background."
+    },
+    "ITEM": {
+      "STATUS": {
+        "DAYS_REMAINING": "{{days}} Days Remaining",
+        "COMING_SOON": "Cooming Soon",
+        "CLOSE": "Close"
+      },
+      "RISKS": "Risks",
+      "INTEREST": "Interest",
+      "YEARS": "{{years}} Year(-s)",
+      "DAYS": "{{days}} Days"
+    }
+  },
+  "ROLE": {
+    "DESC": "is an innovative collective financing platform with an alternative financial system. It was established to build a community that enables entrepreneurs to meet investors who can execute their projects.",
+    "LABELS": {
+      "TITLES": {
+        "CREATING_HOMES": "Creating homes",
+        "GENERATE_PROFIT": "Generate profit",
+        "BOOSTING_THE_ECONOMY": "Boosting the economy"
+      },
+      "DESC": {
+        "1": "Get involved in projects with a social purpose. One of our main goal is to realise projects with a social responsibility background.",
+        "2": "Our projects give you the opportunity to earn high rate of interests. The rest is up to you!",
+        "3": "The projects we offer have a positive effect not just on the social environment but on the entire economy as well."
+      }
+    },
+    "BUTTONS": {
+      "READ_MORE": "Read more about us"
+    }
+  },
+  "DID_YOU_KNOW": {
+    "DESC": "One of the hottest areas currently in the world of crowdfunding is real estate. A swiss study found that the growth in crowdinvesting there was driven principally by real estate crowdinvesting. This segment, which emerged in Switzerland only in 2015, had by 2016 already reached 32.4 million swiss francs in funds raised.",
+    "BUTTONS": {
+      "KNOW_MORE_HERE": "Know more here"
+    }
+  },
+  "CHOOSE": {
+    "DESC_TITLE": "Empowering Dreams. Inspiring Change.",
+    "DESC": "As we live in a world driven by ideas and innovations, the need for platforms that accelerate the growth of new ventures has become increasingly crucial. Innovation crowdfunding company are emerging as a game-changer by offering a collaborative space for visionary individuals to bring their ideas to life.",
+    "LABELS": {
+      "TITLES": {
+        "TRACKABLE_PROJECTS": "Trackable projects",
+        "CUSTOMER_FOCUSED_CALL_CENTER": "Customer focused call center",
+        "FAST_DOCUMENTATION": "Fast Documentation"
+      },
+      "DESC": {
+        "1": "We invite you to a new world of financial investments where projects are trackable and tangible.",
+        "2": "It has been set up to provide you professional support for any investment inquiries you might have.",
+        "3": "On our website the investment process is easy, fast and transparent."
+      }
+    },
+    "STATS": {
+      "SATISFIED_CUSTOMERS": "Satisfied Customers",
+      "EXPERIENCED_ADVISORS": "Experienced Advisors",
+      "WORLDWIDE_LOCATIONS": "Worldwide Locations",
+      "YEARS_OF_EXPERIENCE": "Years of Experience"
+    }
+  }
+}

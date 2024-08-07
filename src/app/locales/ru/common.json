@@ -1,0 +1,59 @@
+{
+  "USER": {
+    "AUTH": {
+      "SIGNIN": "Вход",
+      "SIGNUP": "Регистрация",
+      "FORGOT_YOUR_PASSWORD": "Забыли пароль?"
+    }
+  },
+  "NAVIGATION": {
+    "MENU": {
+      "HOME": "Главная",
+      "PROJECTS": "Проекты",
+      "ABOUT": "О нас",
+      "BLOG": "Блог",
+      "SHOP": "Товары",
+      "JOBS": "Карьера",
+      "PRESS": "Пресса"
+    }
+  },
+  "NOTFOUND": {
+    "HEADING": "Мы не можем найти эту страницу.",
+    "TEXT": "Мы почти уверены, что эта страница когда-то была здесь, но, похоже, пропала. Мы приносим извинения от её имени."
+  },
+  "BUTTONS": {
+    "BACK": "Назад"
+  },
+  "MENU": {
+    "DASHBOARD": "Панель управления",
+    "DASHBOARD_CHIEF_SELLER": "Панель управления: Главный продавец",
+    "DASHBOARD_SELLER": "Панель управления: Продавец",
+    "DASHBOARD_PRESS_SPEAKER": "Панель управления: Пресс-спикер",
+    "PROFILE_SETTINGS": "Настройки",
+    "SIGN_OUT": "Выход"
+  },
+  "FOOTER": {
+    "HEADINGS": {
+      "USEFUL_LINKS": "Полезные ссылки",
+      "DOWNLOAD_MONEY4YOU_APP": "Cкачать money4you.APP",
+      "SUBSCRIBE_NEWSLETTER": "Pассылку"
+    },
+    "TEXTS": {
+      "ANNOTATION": "Money4you — это инновационная платформа коллективного финансирования с альтернативной финансовой системой. Он был создан для создания сообщества, которое позволяет предпринимателям встречаться с инвесторами, которые могут реализовать их проекты."
+    },
+    "LINKS": {
+      "DATA_PROTECTION": "Защита данных",
+      "IMPRINT": "Imprint",
+      "GENERAL_TERMS_AND_CONDITIONS": "Общие положения и условия",
+      "RISK_AND_IMPORTANT_INFORMATION": "Риски и важная информация",
+      "LIST_OF_PRICES_AND_SERVICES": "Список цен и услуг"
+    },
+    "COPYRIGHT": "© {{year}} money4you.financial. Все права защищены."
+  },
+  "WIDGETS": {
+    "RADIO": {
+      "WHAT_A_SONG": "Показать информацию"
+    },
+    "TV": {}
+  }
+}

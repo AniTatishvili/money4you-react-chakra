@@ -1,0 +1,42 @@
+{
+  "CAMPAIGN_NAME": "{{campaign_name}}",
+  "SETTINGS": "პარამეტრები",
+  "TABLES": {
+    "PROJECT_NAME": "სახელი",
+    "AMOUNT": "რაოდენობა",
+    "INTEREST": "ინტერესი",
+    "RISK": "რისკი",
+    "PROGRESS": "პროგრესი",
+    "STATUS": "სტატუსი",
+    "DONATION_DATE": "ინვესტიციის თარიღი",
+    "START_DATE": "დაწყება",
+    "END_DATE": "დასრულება",
+    "CONTRACT": "კონქტრაქტი"
+  },
+  "STATUS": {
+    "ACTIVE": "აქტიური",
+    "CLOSED": "დასრულებული",
+    "UNPAID": "გადაუხდელი",
+    "PENDING": "მოლოდინი",
+    "CONFIRMED": "დადასტურება",
+    "REFUND": "უკან დაბრუნება",
+    "DENIED": "უარყოფა"
+  },
+  "LAST_DONATION": {
+    "NAME": "{{last_donation_name}}",
+    "RISK": "რისკი",
+    "DONATION_PROGRESS": "პროგრესი",
+    "DONATION_AMOUNT": "ინვესტიციის თანხა"
+  },
+  "TITLES": {
+    "INTEREST_AND_RISKS": "ინტერესი და რისკები",
+    "POPULAR_CAMPAIGNS": "პოპულარული პროექტები",
+    "YOUR_LAST_DONATIONS": "შენი ბოლო აქტიურობა",
+    "YOUR_DONATIONS": "შენი ინვესტიციები"
+  },
+  "BUTTONS": {
+    "SEE_CONTRACT": "ნახვა",
+    "SEE_MORE": "მეტი",
+    "AWAITS_CONFIRMATION": "მოითმინე"
+  }
+}
